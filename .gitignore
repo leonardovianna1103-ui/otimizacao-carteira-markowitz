@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Ambientes e IDEs
+.vscode/
+.idea/
+
+# Arquivos de dados e saídas geradas localmente
+*.xlsx
+*.xls
+*.csv
+
+# Exceção (opcional): se quiser versionar uma base consolidada de exemplo
+# !data/msci_europe_11_countries_usd.csv
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
